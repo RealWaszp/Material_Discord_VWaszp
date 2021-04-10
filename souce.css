@@ -1,6 +1,6 @@
 :root {
   --app-bg: var(--main-alt);
-  --accent-color: #4765ba;
+  --accent-color: #F4CFDF;
   --accent-rgb: 71,101,186;
   --accent-button-action: #fff;
   --accent-button-action-hover: 0.06;
@@ -19,7 +19,7 @@
   --button-radius: var(--card-radius);
   --popout-radius: var(--card-radius);
   --popout-radius-big: var(--card-radius-big);
-  --spotify-color: #1db954;
+  --spotify-color: #218B82;
   --stream-color: #593695;
   --stream-flash: 89,54,149;
   --xbox-color: #107c10;
